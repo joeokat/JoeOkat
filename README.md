@@ -1,16 +1,16 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) welcome to my Github profile, my name is Joshua Ofosu.
 
-## Aspiring UI Engineer
+## UI Engineer | Front-end Developer
 
-I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify, VueJS and NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
+I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify, React, VueJS and NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
 
 - 🌍  I'm based in Accra, Ghana
 - 🖥️  See my UX Portfolio at [Behance](http://be.net/joeokat)
 - 🚀  I'm currently working on my [Github Portfolio](http://github.com/joeokat)
-- 🧠  I'm learning Nuxt JS and Tailwind CSS
+- 🧠  I'm learning React, Nuxt JS and Tailwind CSS
 - 🤝  I'm open to collaborating on interesting projects
 - ✉️  You can contact me at [joeokat@gmail.com](mailto:joeokat@gmail.com)
-- ⚡  I am basically a Tech enthusiat.
+- ⚡  I am basically a Tech Savvy.
 
 ### Skills
 
