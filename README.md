@@ -14,4 +14,4 @@ I'm a self-taught, passionate UI Designer with a keen interest in building UIs w
 - ✉️  You can contact me at [joeokat@gmail.com](mailto:joeokat@gmail.com)
 - ⚡  I am basically a Tech Savvy.
 
-Here's my [Digital Business Card](joeokatbusinesscard.pages.dev)
+Here's my [Digital Business Card](http://joeokatbusinesscard.pages.dev)
