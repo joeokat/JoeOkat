@@ -2,4 +2,4 @@
 
 I'm a self-taught, UI Designer with a keen interest in building UIs with Figma and React. I am trying to be more creative and unique with AdobeXD and NuxtJS. I'm available for any kind of job opportunity that suits my current skills.
 
-### Find my Digital Business Card [here](http://joeokatbusinesscard.pages.dev)
+### Find my digital business card [here](http://joeokatbusinesscard.pages.dev)
