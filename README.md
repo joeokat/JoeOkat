@@ -4,6 +4,6 @@
 
 ### UI Engineer
 
-I'm a self-taught, passionate UI Designer with a keen interest in building UIs with Figma, React.js and Vue.js. I am trying to be more creative and unique with AdobeXD, Tailwind CSS, Vuetify and NuxtJS. I'm available for any kind of job opportunity that suits my current skills.
+I'm a self-taught, passionate UI Designer with a keen interest in building UIs with Figma and React. I am trying to be more creative and unique with AdobeXD and NuxtJS. I'm available for any kind of job opportunity that suits my current skills.
 
-Here's my [Digital Business Card](http://joeokatbusinesscard.pages.dev)
+### Here's my [Digital Business Card](http://joeokatbusinesscard.pages.dev)
