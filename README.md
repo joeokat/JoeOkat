@@ -4,5 +4,6 @@
 I'm available for any kind of job opportunity that aligns with my current skills.
 
 ![JoeOkat's Stats](https://github-readme-stats.vercel.app/api?username=JoeOkat&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![JoeOkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoeOkat&theme=gruvbox&hide_border=false)
 ![JoeOkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeOkat&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+![JoeOkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoeOkat&theme=gruvbox&hide_border=false)
+
