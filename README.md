@@ -4,7 +4,3 @@
 
 I am open to any kind of job opportunity that aligns with my current skills.
 
-![JoeOkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeOkat&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
-
-![JoeOkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoeOkat&theme=gruvbox&hide_border=false)
-
